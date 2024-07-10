@@ -1,0 +1,28 @@
+{"Personas" : "mi familia",
+"Lista":
+[{"Nombre" : "A",
+"númerof" : 1,
+"trabajo" : true,
+"Nacimiento" : "1/1/1980"},
+{
+    "Nombre" : "B",
+    "númerof" : 2,
+    "trabajo" : false,
+    "Nacimiento" : "2/2/1980"},
+    {
+        "Nombre" : "C",
+        "númerof" : 3,
+        "trabajo" : true,
+        "Nacimiento" : "3/3/1980"},
+        {
+            "Nombre" : "D",
+            "númerof" : 4,
+            "trabajo" : true,
+            "Nacimiento" : "4/4/1980"},
+            {
+                "Nombre" : "E",
+                "númerof" : 5,
+                "trabajo" : false,
+                "Nacimiento" :"5/5/1980"
+            }
+    ]}
